@@ -1,0 +1,5 @@
+Black: #000000
+LightGrey: #2D2D2D
+Orange: #ffb200
+DarkOrange: #d68400
+LightOrange: #d6b168
